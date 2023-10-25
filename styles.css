@@ -297,6 +297,9 @@ h1 {
     flex-direction: column;
     gap: 2rem;
   }
+  .profile-img img{
+    max-width:90vw;
+  }
   #about {
     padding: 1rem;
   }
